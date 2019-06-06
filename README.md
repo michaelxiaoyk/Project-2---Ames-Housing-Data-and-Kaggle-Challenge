@@ -2,7 +2,7 @@
 
 #### Michael Xiao, General Assembly SG-DSI-8
 
-#### June 7, 2019
+#### June 7, 2019
 
 ## Problem Statement
 #### What features drive the price of houses in Ames, Iowa and where are they located?
