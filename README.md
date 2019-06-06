@@ -20,10 +20,15 @@ As Ames have an average annual temperature of 49.45°F (9.69°C), it is no wonde
 Data Dictionary: http://jse.amstat.org/v19n3/decock/DataDocumentation.txt
 
 Added features:
+
 ['prop_age'] = age of property [['yr_sold'] - ['year_built']]
+
 ['pool'] = area and quality of pool [['pool_area'] * ['pool_qc']]
+
 ['bsmt'] = quality and condition of basement [['bsmt_qual'] * ['bsmt_cond']]
+
 ['fireplace'] = number and quality of fireplaces [['fireplaces'] * ['fireplace_qu']]
+
 ['garage_aes'] = aesthetics of garage [['garage_finish'] * ['garage_qual'] * ['garage_cond']]
 
 
