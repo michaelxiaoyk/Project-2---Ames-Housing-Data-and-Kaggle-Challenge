@@ -14,8 +14,8 @@ We compared against three models in this challenge, namely the linear regression
 
 The size of ground living area, overall quality of the house, total basement square feet and kitchen quality appear to add most value to a home sale price. On the other hand, houses without a basement, townhouse end units, and older property will significantly hurt the value of a home. Our model predicts that neighbourhoods such as Stone Brook, Northridge Heights, Green Hills, Northridge and Crawford have a high coefficient to sale price. This means houses in these neighbourhoods are likely be be pricier than other cities. Our results are similar to that of what a regular homeowner will look out for when buying or selling a property. 
 
-Our data has also shown that having a fireplace in Iowa will significantly increase the valuation of house price. Quality of the fireplace plays a part of the sale price as well. Thus, the more quality fireplaces a house have, the higher the value. 
-As Ames have an average annual temperature of 49.45°F (9.69°C), it is no wonder fireplaces is an important feature to sale price.
+Our data has also shown that having a fireplace in Iowa will significantly increase the valuation of house price. Quality of the fireplace plays a part of the sale price as well. Thus, the more quality fireplaces a house has, the higher the value. 
+As Ames has an average annual temperature of 49.45°F (9.69°C), it is no wonder fireplaces is an important feature to sale price.
 
 Data Dictionary: http://jse.amstat.org/v19n3/decock/DataDocumentation.txt
 
